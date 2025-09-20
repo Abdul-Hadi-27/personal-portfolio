@@ -647,5 +647,16 @@ gap: 10px;
     font-weight: 900;
     font-family: "Belleza";
     font-size:1.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 
+}
+.footer{
+    display: flex;
+    /* align-items: center; */
+    /* flex-direction: column; */
+    justify-content: end;
+    text-align: end;
+    color: #203a43;
 }
